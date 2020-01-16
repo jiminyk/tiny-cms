@@ -1,0 +1,14 @@
+{
+  "name": "tiny-cms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Gomez",
+  "license": "ISC",
+  "devDependencies": {
+    "cms": "^1.8.1"
+  }
+}
